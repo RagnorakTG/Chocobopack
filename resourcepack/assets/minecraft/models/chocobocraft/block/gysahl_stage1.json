@@ -1,0 +1,6 @@
+{
+	"parent": "chocobocraft/block/plant_parent",
+	"textures": {
+		"0": "chocobocraft/block/gysahl_stage1"
+	}
+}

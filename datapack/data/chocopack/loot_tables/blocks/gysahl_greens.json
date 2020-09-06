@@ -1,0 +1,71 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{choco:{Tags:[\"lovely_gysahl_greens\"]},CustomModelData:4060004,display:{Name:'{\"translate\":\"item.chocobopack.lovely_gysahl_greens\",\"color\":\"white\",\"italic\":false}'}}"
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{choco:{Tags:[\"gysahl_greens\"]},CustomModelData:4060001,display:{Name:'{\"translate\":\"item.chocobopack.gysahl_greens\",\"color\":\"white\",\"italic\":false}'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{choco:{Tags:[\"pink_gysahl_greens\"]},CustomModelData:4060002,display:{Name:'{\"translate\":\"item.chocobopack.pink_gysahl_greens\",\"color\":\"white\",\"italic\":false}'}}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dispenser",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{choc:{Tags:[\"gysahl_seeds\",\"custom_block\"]},display:{Name:'{\"translate\":\"item.chocobopack.gysahl_seed\",\"italic\":false}'},CustomModelData:4060001}"
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

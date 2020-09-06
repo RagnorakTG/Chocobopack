@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "please": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:dispenser",
+                "item": {
+                    "item": "minecraft:dispenser",
+                    "nbt": "{choc:{Tags:[\"gysahl_seeds\",\"custom_block\"]}}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "chocopack:custom_blocks/placing/gysahl_seeds"
+    }
+}

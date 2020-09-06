@@ -1,0 +1,151 @@
+{
+	"parent": "block/command_block", 
+	"textures": {
+		"layer0": "item/command_block"
+	},
+	"overrides": [		{
+			"predicate": {
+				"custom_model_data": 4060001
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060002
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.armored"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060003
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.saddled"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060004
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.bagged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060005
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.carted"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060006
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.armored.saddled"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060007
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.armored.bagged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060008
+			},
+			"model": "chocobocraft/entity/chocobo/idle_generic_chocobo.armored.carted"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060009
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060010
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.armored"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060011
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.saddled"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060012
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.bagged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060013
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.carted"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060014
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.armored.saddled"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060015
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.armored.bagged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060016
+			},
+			"model": "chocobocraft/entity/chocobo/idle_water_chocobo.armored.carted"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060017
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060018
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.armored"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060019
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.saddled"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060020
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.bagged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060021
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.carted"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060022
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.armored.saddled"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060023
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.armored.bagged"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060024
+			},
+			"model": "chocobocraft/entity/chocobo/idle_fire_chocobo.armored.carted"
+		}
+	]
+}

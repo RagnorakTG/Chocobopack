@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated", 
+	"textures": {
+		"layer0": "item/barrier"
+	},
+	"overrides": [		{
+			"predicate": {
+				"custom_model_data": 4060001
+			},
+			"model": "chocobocraft/item/blank"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4060002
+			},
+			"model": "chocobocraft/item/check_mark"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Chocobopack",
+    "description": "Add's Chocobos into the game.",
+    "icon": {
+      "item": "minecraft:barrier",
+      "nbt": "{CustomModelData:4060002}"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:rag",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

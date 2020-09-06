@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{choco:{Tags:[\"chocobo_feather\"]},CustomModelData:4060001,display:{Name:'{\"translate\":\"item.chocobopack.chocobo_feather\",\"color\":\"white\",\"italic\":false}'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
