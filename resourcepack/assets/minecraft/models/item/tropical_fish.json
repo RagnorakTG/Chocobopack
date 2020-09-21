@@ -7,31 +7,31 @@
 			"predicate": {
 				"custom_model_data": 4060001
 			},
-			"model": "chocobocraft/item/gysahl_green"
+			"model": "chocobocraft:item/gysahl_green"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060002
 			},
-			"model": "chocobocraft/item/pink_gysahl"
+			"model": "chocobocraft:item/pink_gysahl"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060003
 			},
-			"model": "chocobocraft/item/golden_gysahl"
+			"model": "chocobocraft:item/golden_gysahl"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060004
 			},
-			"model": "chocobocraft/item/lovely_gysahl"
+			"model": "chocobocraft:item/lovely_gysahl"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060005
 			},
-			"model": "chocobocraft/item/raw_pickled_gysahl"
+			"model": "chocobocraft:item/raw_pickled_gysahl"
 		}
 	]
 }

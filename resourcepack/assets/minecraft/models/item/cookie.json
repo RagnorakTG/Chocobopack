@@ -7,7 +7,7 @@
 			"predicate": {
 				"custom_model_data": 4060001
 			},
-			"model": "chocobocraft/item/cooked_pickled_gysahl"
+			"model": "chocobocraft:item/cooked_pickled_gysahl"
 		}
 	]
 }

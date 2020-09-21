@@ -7,79 +7,79 @@
 			"predicate": {
 				"custom_model_data": 4060001
 			},
-			"model": "chocobocraft/item/gysahl_seeds"
+			"model": "chocobocraft:item/gysahl_seeds"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060002
 			},
-			"model": "chocobocraft/item/chocobo_egg"
+			"model": "chocobocraft:item/chocobo_egg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060003
 			},
-			"model": "chocobocraft/item/chocobo_egg_black"
+			"model": "chocobocraft:item/chocobo_egg_black"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060004
 			},
-			"model": "chocobocraft/item/chocobo_egg_blue"
+			"model": "chocobocraft:item/chocobo_egg_blue"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060005
 			},
-			"model": "chocobocraft/item/chocobo_egg_gold"
+			"model": "chocobocraft:item/chocobo_egg_gold"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060006
 			},
-			"model": "chocobocraft/item/chocobo_egg_green"
+			"model": "chocobocraft:item/chocobo_egg_green"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060007
 			},
-			"model": "chocobocraft/item/chocobo_egg_purple"
+			"model": "chocobocraft:item/chocobo_egg_purple"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060008
 			},
-			"model": "chocobocraft/item/chocobo_egg_red"
+			"model": "chocobocraft:item/chocobo_egg_red"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060009
 			},
-			"model": "chocobocraft/item/chocobo_egg_white"
+			"model": "chocobocraft:item/chocobo_egg_white"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060010
 			},
-			"model": "chocobocraft/block/gysahl_stage0"
+			"model": "chocobocraft:block/gysahl_stage0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060011
 			},
-			"model": "chocobocraft/block/gysahl_stage1"
+			"model": "chocobocraft:block/gysahl_stage1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060012
 			},
-			"model": "chocobocraft/block/gysahl_stage2"
+			"model": "chocobocraft:block/gysahl_stage2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4060013
 			},
-			"model": "chocobocraft/block/gysahl_stage3"
+			"model": "chocobocraft:block/gysahl_stage3"
 		}
 	]
 }

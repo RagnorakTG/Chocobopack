@@ -73,7 +73,7 @@
 			"predicate": {
 				"custom_model_data": 4060001
 			},
-			"model": "chocobocraft/item/chocobo_feather"
+			"model": "chocobocraft:item/chocobo_feather"
 		}
 	]
 }
