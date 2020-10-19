@@ -1,0 +1,96 @@
+itemGroup.chococraft=ChocoCraft 3
+
+tile.chococraft.gysahl_green.name=Gizarkraut
+tile.chococraft.chocobo_egg.name=Chocobo Ei
+tile.chococraft.straw_nest.name=Chocobo Nest
+
+entity.chocobo.name=Chocobo
+
+item.chococraft.gysahl_green.name=Gizarkraut
+item.chococraft.gysahl_green_seeds.name=Gizarkraut Samen
+item.chococraft.lovely_gysahl_green.name=Liebliches Gizarkraut
+item.chococraft.pickled_gysahl_raw.name=Rohes eingelegtes Gizarkraut
+item.chococraft.pickled_gysahl_cooked.name=Gebackenes eingelegtes Gizarkraut
+
+item.chococraft.chocopedia.name=Chocopedia
+item.chococraft.chocopedia.tooltip=Zeigt Statistiken zu einem Chocobo
+
+item.chococraft.chocobo_feather.name=Chocobo Feder
+item.chococraft.chocobo_whistle.name=Chocobo Pfeifton
+
+item.chococraft.chocobo_saddle.none.name=Chocobo Sattel
+item.chococraft.chocobo_saddle.saddle.name=Chocobo Satteltaschen
+item.chococraft.chocobo_saddle.saddle_bags.name=Chocobo Sattelpackung
+
+item.chococraft.chocobo_drumstick_raw.name=Roher Chocoboschenkel
+item.chococraft.chocobo_drumstick_cooked.name=Gebratener Chocoboschenkel
+item.chococraft.chocobo_spawn_egg.yellow.name=Gelbes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.green.name=GrÃ¼nes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.blue.name=Blaues Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.white.name=WeiÃŸes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.black.name=Schwarzes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.gold.name=Goldenes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.pink.name=Pinkes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.red.name=Rotes Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.purple.name=Lila Chocobo Spawn-Ei
+item.chococraft.chocobo_spawn_egg.flame.name=Flamme Chocobo Spawn-Ei
+
+item.chococraft.ability_fruit.spike_fruit.name=Stachelfrucht
+item.chococraft.ability_fruit.spike_fruit.tooltip=Lehrt einem Chocobo die FÃ¤higkeit zu sprinten
+item.chococraft.ability_fruit.aeroshroom.name=Aeropilz
+item.chococraft.ability_fruit.aeroshroom.tooltip=Lehrt einem Chocobo die FÃ¤higkeit zu gleiten
+item.chococraft.ability_fruit.aqua_berry.name=Aquabeere
+item.chococraft.ability_fruit.aqua_berry.tooltip=Lehrt einem Chocobo die FÃ¤higkeit zu tauchen
+item.chococraft.ability_fruit.dead_pepper.name=Todesschote
+item.chococraft.ability_fruit.dead_pepper.tooltip=Lehrt einem Chocobo die FÃ¤higkeit zu fliegen
+
+item.chococraft.chocobo_egg.tooltip.invalid_egg=Â§cFehlerhaftes Ei
+item.chococraft.chocobo_egg.tooltip.mother_info=Mutter: %s / %s / %s
+item.chococraft.chocobo_egg.tooltip.father_info=Vater: %s / %s / %s
+
+chococraft.entity_chocobo.heal_fail=Â§cGesundheit voll
+chococraft.entity_chocobo.tame_fail=Â§cZÃ¤hmung fehlgeschlagen
+chococraft.entity_chocobo.tame_success=Â§aZÃ¤hmung erfolgreich
+chococraft.entity_chocobo.saddle_applied=Chocobo gesattelt
+chococraft.entity_chocobo.chocobo_followcmd=Folgen
+chococraft.entity_chocobo.chocobo_wandercmd=Schlendern
+chococraft.entity_chocobo.chocobo_staycmd=Bleibe
+
+chococraft.general.world=Welt
+chococraft.general.world.gysahlgreenspawnweight=Gizarkraut Spawnanteil
+chococraft.general.gysahlgreenpatchsize=Gizarkraut PflanzengrÃ¶ÃŸe
+
+cmd.chococraft.chocobo.invalid_set_parameters=Parameter ungÃ¼ltig
+cmd.chococraft.chocobo.successfuly_set_parameters=Parameter %s wurde auf %s gesetzt
+
+cmd.chococraft.chocobo.get_level=Level: %s
+cmd.chococraft.chocobo.get_health=Leben: %s
+cmd.chococraft.chocobo.get_resistance=Resistenz: %s
+cmd.chococraft.chocobo.get_speed=Geschwindigkeit: %s
+cmd.chococraft.chocobo.get_stamina=Ausdauer: %s
+
+cmd.chococraft.chocobo.can_not_sprint=Kann sprinten: Â§cfalse
+cmd.chococraft.chocobo.can_sprint=Kann sprinten: Â§atrue
+cmd.chococraft.chocobo.can_not_dive=Kann tauchen: Â§cfalse
+cmd.chococraft.chocobo.can_dive=Kann tauchen: Â§atrue
+cmd.chococraft.chocobo.can_not_glide=Kann gleiten: Â§cfalse
+cmd.chococraft.chocobo.can_glide=Kann gleiten: Â§atrue
+cmd.chococraft.chocobo.can_not_fly=Kann fliegen: Â§cfalse
+cmd.chococraft.chocobo.can_fly=Kann fliegen: Â§atrue
+
+gui.chocoinfo.button.ability=Derzeit haben Sie %s von %s Erfahrung, um freizuschalten %s.
+gui.chocoinfo.button.sprint=Sprinten
+gui.chocoinfo.button.glide=Gleiten
+gui.chocoinfo.button.dive=Tauchen
+gui.chocoinfo.button.fly=Fliegen
+
+gui.choconest=Chocobo Nest
+
+gui.chocobook.title=Chocopedia Seite 
+gui.chocobook.page1=Chocobos sind riesige, straußenähnliche Vögel, die in den Ebenen der Prärie und Hügel gefunden werden. Ihre Ernährung besteht aus Gysahls-Grüns und so ziemlich nichts weiter. Sie sind normalerweise gelb gefärbt und haben zwei Beine mit dreibeinigen Füßen, großen Flügeln und langen Hälsen.
+gui.chocobook.page2=Ich denke, Sie fragen sich jetzt, wie zur Hölle kann ich einen Chocobo zähmen? Nun, das ist einfach. Um einen Chocobo zu zähmen, müssen Sie grüne Gysahls finden, um sie zu füttern, die auf der ganzen Welt erscheinen. Kann es dich nicht dazu bringen, dich zu lieben? Schieben Sie noch ein paar Gysahls rein, es wird funktionieren!
+gui.chocobook.page3=Also, wie fahre ich damit? Manchmal lässt Chocobos eine einzigartige Feder fallen, kombiniert diese mit einem normalen Sattel, um einen Chocobo-Sattel herzustellen, und klicken Sie mit der rechten Maustaste auf den Chocobo, um ihn anzuziehen. Vielleicht können Sie einen besseren Sattel machen, einen mit Stauraum oder so.
+gui.chocobook.page4=Sie haben also einen einfachen Chocobo, das ist großartig, aber Sie können es besser machen. Wenn Sie eine Chocopedia auf einem Chocobo verwenden, können Sie neue Fähigkeiten freischalten, indem Sie die Erfahrung nutzen, die Sie haben und die aus Ihrer Seele austritt. Dazu gehören Fliegen, Gleiten, Sprinten und Tauchen.
+gui.chocobook.page5=Ordentlich, also habe ich eine Fähigkeit freigeschaltet, wie verwende ich sie? Um fliegen zu können, musst du sprinten, um Schwung zu gewinnen, dann zu springen, gleiten ist buchstäblich nur langsamer, um zu springen, sprintest du die Sprint-Taste (Eintauchen mit gebrochenem Gesicht), um buchstäblich im Wasser zu springen.
+gui.chocobook.page6=Ich habe einen Chocobo, aber ich will MOOR! Okay, es gibt also eine Mama und einen Papa Chocobo. Der Papa hat farbige Federn. Sie bringen sie zum Kochen, indem sie einen schönen Gysahl füttern, der selten durch Gysahls in der Landwirtschaft gewonnen wird. Legen Sie das Ei in ein Nest und mit genügend Zeit und Raum schlüpfen.
+gui.chocobook.page7=Hilfe, mein Chocobos hat ein schlimmeres Chocobo gekackt! Das ist in Ordnung, es gibt eine Chance, dass Ihr Baby in gewisser Weise schlechter wird, aber meistens erhalten Sie ein schnelleres, gesünderes und energetischeres Chocobo als die vorherige Generation. Versuche es einfach weiter!
