@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "chocobocraft/entity/chicobos/normal_chicobo",
-		"particle": "chocobocraft/entity/chicobos/normal_chicobo"
+		"0": "chocobocraft:entity/chicobos/normal_chicobo",
+		"particle": "chocobocraft:entity/chicobos/normal_chicobo"
 	},
 	"elements": [
 		{
