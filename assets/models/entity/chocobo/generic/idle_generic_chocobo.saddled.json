@@ -1,8 +1,0 @@
-{
-	"parent": "chocobocraft/entity/chocobo_idle_parent",
-	"textures": {
-		"0": "chocobocraft/entity/chocobos/normal_generic_chocobo",
-		"1": "chocobocraft/entity/blank",
-		"2": "chocobocraft/entity/chocobos/chocobo_saddle_layer1"
-	}
-}
